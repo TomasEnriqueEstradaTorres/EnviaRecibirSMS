@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EnviaRecibirSMS</string>
+
+    <string name="enviar">Enviar Mensaje</string>
+
+    <string name="numeroTelefono">Numero de Telefono</string>
+    <string name="mensajeEnviado">Escribir Mensaje</string>
+    <string name="vacio">""</string>
 </resources>
